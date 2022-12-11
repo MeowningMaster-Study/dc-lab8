@@ -1,7 +1,7 @@
-package dc.lab7.task3
+package dc.lab8.task3
 
-import dc.lab7.File
-import dc.lab7.Folder
+import dc.lab8.File
+import dc.lab8.Folder
 import java.io.ObjectInputStream
 import java.io.ObjectOutputStream
 import java.net.ServerSocket

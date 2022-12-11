@@ -6,7 +6,4 @@ import java.io.Serializable
 
 @Getter
 @AllArgsConstructor
-class Data : Serializable {
-    private val command = 0
-    private val data: Any? = null
-}
+class Request(val command: String, val data: Any?) : Serializable

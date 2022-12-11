@@ -1,4 +1,6 @@
-package dc.lab7
+package dc.lab8
 
-data class File(val name: String, var content: String) {
+import java.io.Serializable
+
+data class File(val name: String, var content: String): Serializable {
 }

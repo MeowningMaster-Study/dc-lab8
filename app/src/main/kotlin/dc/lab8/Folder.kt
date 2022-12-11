@@ -1,4 +1,4 @@
-package dc.lab7
+package dc.lab8
 
 class Folder(val name: String) {
     /** <name, File> */

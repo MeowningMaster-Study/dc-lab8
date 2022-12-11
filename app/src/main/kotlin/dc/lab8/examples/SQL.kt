@@ -1,4 +1,4 @@
-package dc.lab7.examples
+package dc.lab8.examples
 
 import java.sql.Connection
 import java.sql.DriverManager

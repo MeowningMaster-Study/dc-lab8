@@ -1,4 +1,4 @@
-package dc.lab7.task3
+package dc.lab8.task3
 
 import java.io.ObjectInputStream
 import java.io.ObjectOutputStream

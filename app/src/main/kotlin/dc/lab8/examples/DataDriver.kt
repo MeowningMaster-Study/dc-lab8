@@ -1,4 +1,4 @@
-package dc.lab7.examples
+package dc.lab8.examples
 
 interface DataDriver {
     fun readFolders(): ArrayList<Folder>

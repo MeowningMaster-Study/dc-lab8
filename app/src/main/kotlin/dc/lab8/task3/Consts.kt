@@ -1,4 +1,4 @@
-package dc.lab7.task3
+package dc.lab8.task3
 
 const val host = "localhost"
 const val port = 8080

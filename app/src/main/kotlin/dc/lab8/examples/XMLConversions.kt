@@ -1,4 +1,4 @@
-package dc.lab7.examples
+package dc.lab8.examples
 
 import org.w3c.dom.Element
 import org.w3c.dom.Node

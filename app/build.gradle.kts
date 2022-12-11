@@ -24,11 +24,14 @@ dependencies {
     // This dependency is used by the application.
     implementation("com.google.guava:guava:30.1.1-jre")
     implementation("mysql:mysql-connector-java:8.0.28")
+    implementation("com.rabbitmq:amqp-client:5.16.0")
+    implementation("org.projectlombok:lombok:1.18.22")
+    implementation ("org.slf4j:slf4j-log4j12:1.7.29")
 }
 
 application {
     // Define the main class for the application.
-    mainClass.set("dc.lab7.AppKt")
+    mainClass.set("dc.lab8.AppKt")
 }
 
 tasks.named<Test>("test") {
